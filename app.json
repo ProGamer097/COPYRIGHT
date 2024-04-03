@@ -18,6 +18,13 @@
        "description": "create your bot in @botfather",
        "value": "",
        "required": true
-    }
+    }    stack": "heroku-22",
+   "addons": [
+      {
+         "options": {
 }
-}
+}         "version": "15"
+  },
+         "plan": "heroku-postgresql"
+      }
+   
